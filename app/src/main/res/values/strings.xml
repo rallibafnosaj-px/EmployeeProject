@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EmployeeProject</string>
+    <string name="name">Jason Fabillarsssssss</string>
+    <string name="hint_et_firstname">Firstname</string>
+    <string name="hint_et_lastname">Lastname</string>
+    <string name="txt_btn_addEmployee">Add Employee</string>
+    <string name="hint_et_id">Please enter Employee ID</string>
+    <string name="txt_btn_updateEmployee">Update Employee</string>
+    <string name="txt_btn_goToUpdateEmployee">Update Employee</string>
+    <string name="txt_btn_deleteEmployee">Delete Employee</string>
+    <string name="txt_btn_viewEmployee">View Employee</string>
+</resources>
